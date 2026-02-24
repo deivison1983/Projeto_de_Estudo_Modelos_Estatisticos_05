@@ -1,4 +1,4 @@
-# 🛒 Modelagem de Regressão Linear para Predição do Valor Anual de Clientes em E-commerce
+# 🛒 Modelagem de Regressão Linear para Predição do Valor Anual Gasto pelos Clientes em um E-commerce
 
 ## 📌 Visão Geral
 
