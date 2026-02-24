@@ -70,7 +70,7 @@ Este projeto demonstra a aplicação prática de técnicas fundamentais de ciên
 Fonte dos dados:
 
 * Dataset: Ecommerce Customers
-* Disponível em: Kaggle
+* Disponível em: [Kaggle](https://www.kaggle.com/datasets/srolka/ecommerce-customers)
 
 ---
 
